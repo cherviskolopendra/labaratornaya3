@@ -1,0 +1,8 @@
+jj.txt filter=lfs diff=lfs merge=lfs -text
+jjj.txt filter=lfs diff=lfs merge=lfs -text
+jan.txt filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
+git.txt filter=lfs diff=lfs merge=lfs -text
+111.txt.txt filter=lfs diff=lfs merge=lfs -text
+=======
+>>>>>>> develop
